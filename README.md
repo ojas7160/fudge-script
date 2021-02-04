@@ -1,6 +1,7 @@
 # fudge-script
 
 Pre-requisite for this script - 
+
 For linux - 
 
 1. Phython2.7 - 
